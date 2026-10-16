@@ -2,7 +2,7 @@
 
 # frokware industries
 
-reverse engineering · malware analysis · software research
+game hacking · anti-cheat · reversing · cracking · java
 
 <br>
 
@@ -12,48 +12,48 @@ reverse engineering · malware analysis · software research
 
 <br>
 
-We pull software apart to see how it works. Most of what lives here falls into a few buckets:
+nothing is truly uncrackable:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Malware**<br>
-<sub>Sample breakdowns, unpacking notes, IOCs, and YARA rules from things we've looked at.</sub>
+**Cheats**<br>
+<sub>Internal and external clients, memory structures, hooking, rendering, and game internals.</sub>
 
 </td>
+<td width="50%" valign="top">
+
+**Anti-Cheat**<br>
+<sub>How the detection side works. Kernel drivers, integrity checks, and server side heuristics.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cracking**<br>
+<sub>Licensing systems, DRM, and protectors.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Java**<br>
+<sub>JVM bytecode, class transformation, deobfuscation.</sub>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **Reversing**<br>
-<sub>Binary analysis across Windows, Linux, and Android. Obfuscation, packers, protectors.</sub>
+<sub>Native binaries on Windows and Linux. Packers, VMs, obfuscation, n shi.</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Software**<br>
-<sub>Licensing systems, DRM, and anti-tamper. How they're built and where they fall short.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Games**<br>
-<sub>Client internals, memory structures, and anti-cheat research.</sub>
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **Tools**<br>
-<sub>Plugins, scripts, and utilities we wrote because we needed them.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**CTF**<br>
-<sub>Writeups from RE and pwn challenges.</sub>
+<sub>Plugins, loaders, dumpers, and scripts we wrote.</sub>
 
 </td>
 </tr>
@@ -65,11 +65,14 @@ We pull software apart to see how it works. Most of what lives here falls into a
 
 ![IDA](https://img.shields.io/badge/IDA_Pro-1a1a1a?style=flat-square)
 ![Ghidra](https://img.shields.io/badge/Ghidra-1a1a1a?style=flat-square)
-![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-1a1a1a?style=flat-square)
 ![x64dbg](https://img.shields.io/badge/x64dbg-1a1a1a?style=flat-square)
-![Frida](https://img.shields.io/badge/Frida-1a1a1a?style=flat-square)
 ![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-1a1a1a?style=flat-square)
+![ReClass](https://img.shields.io/badge/ReClass.NET-1a1a1a?style=flat-square)
+![Recaf](https://img.shields.io/badge/Recaf-1a1a1a?style=flat-square)
+![JADX](https://img.shields.io/badge/JADX-1a1a1a?style=flat-square)
+![Frida](https://img.shields.io/badge/Frida-1a1a1a?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-1a1a1a?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
 
